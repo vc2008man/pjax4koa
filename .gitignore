@@ -7,7 +7,6 @@ npm-debug.log
 *.ipr
 *.iws
 .idea/
-node_modules
 
 # Gruntfile.js
 # package.json
