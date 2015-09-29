@@ -25,4 +25,4 @@ app.use(pjax4koa());
 ```
 
 ## License
-The MIT License, 2014 [Charlike Mike Reagent](https://github.com/tunnckoCore) ([@tunnckoCore](https://twitter.com/tunnckoCore)) and [Daryl Lau](https://github.com/dlau) ([@daryllau](https://twitter.com/daryllau))
+The MIT License, 2015
