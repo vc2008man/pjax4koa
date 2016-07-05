@@ -3,7 +3,7 @@
 var cheerio = require('cheerio');
 
 function isRedirect(status){
-    return (status === 301 && status === 302);
+    return (status === 301 || status === 302);
 }
 
 function isPjax(req){
